@@ -1,0 +1,2 @@
+# DEVELOPMENT-OF-EARLY-WARNING-SYSTEM-TO-SUPPORT-EDUCATION-PLANNING-BY-IDENTIFYING-AT-RISK-STUDENTS
+This project is about the development of an early warning system to identify at risk of students by analyzing key socio cultural, structural and educational factor influencing dropout decision using an original, comphenshive dataset,the system leverage the k-Nearest Neighbour algoritham, achieving over 99%accuracy in both training and testing phase
